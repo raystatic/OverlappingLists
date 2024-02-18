@@ -1,6 +1,5 @@
 # Overlapping Lists: Custom Composable Vs RecyclerView
-<img
-    height="1024" src="https://github.com/raystatic/OverlappingLists/assets/31301266/9993b62a-0a9c-4383-ad9c-ea46b1b9da42"/>
+![demo-ezgif com-optimize](https://github.com/raystatic/OverlappingLists/assets/31301266/aced9f06-7ce3-4035-8f28-ef187de4184c)
 
 ## Overview
 This repository contains two sets of code examples:
